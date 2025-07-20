@@ -1,6 +1,5 @@
 # 🏏 IPL Analysis Dashboard - Power BI
 
-![Dashboard Banner](preview.png)
 
 An interactive and insightful Power BI dashboard analyzing Indian Premier League (IPL) matches, teams, and players. This project aims to extract meaningful patterns and performance metrics from IPL data to support better understanding of cricket analytics.
 
@@ -27,15 +26,6 @@ The **IPL Analysis Dashboard** is built using Microsoft Power BI and provides a 
 ✅ Filters for Team, Venue, Season, and Match Result  
 ✅ Clean, interactive Power BI visuals
 
----
-
-## 🖼️ Screenshots
-
-> *(Add actual images if available by uploading them to the repo)*
-
-| Team Performance | Player Statistics |
-|------------------|-------------------|
-| ![Team](images/team_stats.png) | ![Player](images/player_stats.png) |
 
 ---
 
